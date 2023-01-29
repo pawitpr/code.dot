@@ -8,3 +8,4 @@ Disallow:
 Disallow: /cgi-bin/
 Disallow: /about/
 Disallow: /ro
+Sitemap: https://codedots.vercel.app/sitemap.xml
